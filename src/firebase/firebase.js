@@ -4,12 +4,12 @@ import "firebase/auth";
 if (!firebase.apps.length) {
   // Paste your config object here ⬇️
   const firebaseConfig = {
-    apiKey: "AIzaSyBpjUjFAt7RZAVFda1OBJCHRYssLzdlJYY",
-    authDomain: "nodejs-firebase-app-408c6.firebaseapp.com",
-    projectId: "nodejs-firebase-app-408c6",
-    storageBucket: "nodejs-firebase-app-408c6.appspot.com",
-    messagingSenderId: "370587034017",
-    appId: "1:370587034017:web:aabc0671314c2d40d0abe0",
+    apiKey: "AIzaSyACQjE4-v122YhoBKuJYxwj4VOYDo9a5Fw",
+    authDomain: "nodejs-firebase-app-9d6de.firebaseapp.com",
+    projectId: "nodejs-firebase-app-9d6de",
+    storageBucket: "nodejs-firebase-app-9d6de.appspot.com",
+    messagingSenderId: "72503611103",
+    appId: "1:72503611103:web:79b41194335b2d40a2236a",
   };
 
   firebase.initializeApp(firebaseConfig);
